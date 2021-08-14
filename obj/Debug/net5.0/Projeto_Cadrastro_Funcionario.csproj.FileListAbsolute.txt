@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Projetos\Projeto_Cadrastro_Funcionario\bin\Debug\net5.0\Projeto_Cadrastro_Funcionario.exe
+C:\Users\User\Desktop\Projetos\Projeto_Cadrastro_Funcionario\bin\Debug\net5.0\Projeto_Cadrastro_Funcionario.deps.json
+C:\Users\User\Desktop\Projetos\Projeto_Cadrastro_Funcionario\bin\Debug\net5.0\Projeto_Cadrastro_Funcionario.runtimeconfig.json
+C:\Users\User\Desktop\Projetos\Projeto_Cadrastro_Funcionario\bin\Debug\net5.0\Projeto_Cadrastro_Funcionario.runtimeconfig.dev.json
+C:\Users\User\Desktop\Projetos\Projeto_Cadrastro_Funcionario\bin\Debug\net5.0\Projeto_Cadrastro_Funcionario.dll
+C:\Users\User\Desktop\Projetos\Projeto_Cadrastro_Funcionario\bin\Debug\net5.0\ref\Projeto_Cadrastro_Funcionario.dll
+C:\Users\User\Desktop\Projetos\Projeto_Cadrastro_Funcionario\bin\Debug\net5.0\Projeto_Cadrastro_Funcionario.pdb
+C:\Users\User\Desktop\Projetos\Projeto_Cadrastro_Funcionario\obj\Debug\net5.0\Projeto_Cadrastro_Funcionario.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projetos\Projeto_Cadrastro_Funcionario\obj\Debug\net5.0\Projeto_Cadrastro_Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projetos\Projeto_Cadrastro_Funcionario\obj\Debug\net5.0\Projeto_Cadrastro_Funcionario.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projetos\Projeto_Cadrastro_Funcionario\obj\Debug\net5.0\Projeto_Cadrastro_Funcionario.AssemblyInfo.cs
+C:\Users\User\Desktop\Projetos\Projeto_Cadrastro_Funcionario\obj\Debug\net5.0\Projeto_Cadrastro_Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projetos\Projeto_Cadrastro_Funcionario\obj\Debug\net5.0\Projeto_Cadrastro_Funcionario.dll
+C:\Users\User\Desktop\Projetos\Projeto_Cadrastro_Funcionario\obj\Debug\net5.0\ref\Projeto_Cadrastro_Funcionario.dll
+C:\Users\User\Desktop\Projetos\Projeto_Cadrastro_Funcionario\obj\Debug\net5.0\Projeto_Cadrastro_Funcionario.pdb
+C:\Users\User\Desktop\Projetos\Projeto_Cadrastro_Funcionario\obj\Debug\net5.0\Projeto_Cadrastro_Funcionario.genruntimeconfig.cache
